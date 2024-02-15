@@ -18,3 +18,5 @@ This project has these components:
 <p align="center">
   Falcon 9 B1021 landed on a drone ship (image from <a href="https://en.wikipedia.org/wiki/List_of_Falcon_9_first-stage_boosters">wikipedia.org</a>)
 </p>
+
+This project is for the "Applied Data Science Capstone" course by IBM on <a href="https://www.coursera.org/learn/applied-data-science-capstone">coursera</a>.
